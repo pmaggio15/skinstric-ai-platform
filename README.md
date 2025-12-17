@@ -38,19 +38,11 @@ Skinstric is a complete frontend rebuild integrating real-time skin analysis wor
 
 ## Tech Stack
 
-**Core Framework**
-- React
-- JavaScript
-- Next.js
-- Tailwind CSS
-
-**Animation & Polish**
-- GSAP (GreenSock Animation Platform)
-- Custom animation timelines
-
-**Infrastructure**
-- Vercel deployment
-- Git/GitHub workflows
+| Frontend | API Integration | Styling | Tooling |
+|----------|-----------------|---------|---------|
+| React | REST APIs | Tailwind CSS | Git |
+| Next.js | Third-party AI APIs | CSS3 | Vercel |
+| TypeScript | Async State Management | | GitHub |
 
 ---
 

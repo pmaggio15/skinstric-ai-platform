@@ -78,20 +78,6 @@ Built to feel fast, polished, and production-ready.
 
 ---
 
-## Run Locally
-```bash
-# Clone the repo
-git clone https://github.com/pmaggio15/skinstric-ai-platform.git
-
-# Install dependencies
-npm install
-
-# Start development server
-npm run dev
-```
-
----
-
 ## Author
 
 **Paige Maggio**  

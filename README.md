@@ -1,76 +1,83 @@
-# Skinstric AI — AI Skin Analysis Platform
+# Skinstric — AI Skin Analysis Platform
 
-Skinstric AI is a production-grade AI skin analysis platform built from the ground up with a focus on performance, visual polish, and real-time AI feedback.
-
-The application combines modern frontend architecture with computer vision workflows to deliver fast, intuitive, and highly interactive user experiences.
+Production-grade AI skin analysis platform built from the ground up with a focus on clean architecture, performance optimization, and polished user experience.
 
 ---
 
-## Core Capabilities
+## Overview
 
-- Real-time skin analysis using OpenAI Vision APIs  
-- AI-driven detection of skin attributes and conditions  
-- Sub-second feedback delivered through a responsive UI  
-- Animation-driven scanning and results flow  
-- Fully responsive, production-ready interface  
+Skinstric is a complete frontend rebuild integrating real-time skin analysis workflows. The platform delivers fast, intuitive, and highly responsive interactions through modern component architecture and animation-driven UI flows.
 
 ---
 
-## Architecture Overview
+## Key Features
 
-**Frontend**
-- React with modular, component-driven architecture  
-- Optimized state transitions for scan → analysis → results  
-- Animation timelines for smooth, guided user flow  
+- **Real-time skin analysis** with sub-2-second response times
+- **AI-driven attribute detection** and structured result rendering
+- **Animation-guided workflows** for scan → analysis → results flow
+- **Production-ready responsive design** across all devices
+- **Optimized state management** for complex async workflows
 
-**AI Layer**
-- OpenAI Vision API integration  
-- Optimized image handling and request batching  
+---
+
+## Technical Architecture
+
+### Frontend
+- **React** with modular, component-driven architecture
+- **State machine patterns** for predictable analysis flow
+- **GSAP animation timelines** for smooth UI transitions
+- **Performance-optimized rendering** with intelligent state updates
+
+### Integration Layer
+- Third-party **skin analysis API** integration
+- **RESTful API** error handling and retry logic
+- Image preprocessing and optimization
+- Structured response transformation for UI rendering
 
 ---
 
 ## Tech Stack
 
-**Core**
+**Core Framework**
 - React
 - JavaScript
+- Next.js
 - Tailwind CSS
-- Vite
 
-**AI & UI**
-- OpenAI Vision API
-- GSAP animations
+**Animation & Polish**
+- GSAP (GreenSock Animation Platform)
+- Custom animation timelines
 
-**Tooling**
-- Git
-- GitHub
-- Vercel
+**Infrastructure**
+- Vercel deployment
+- Git/GitHub workflows
 
 ---
 
-## Engineering Focus
+## Engineering Highlights
 
-- Clean component architecture  
-- Performance-first UI updates  
-- Smooth animation-driven interactions  
-- Production-level design fidelity  
+✓ **Component Architecture** — Clean separation of concerns with reusable, maintainable components  
+✓ **Performance-First** — Optimized for sub-2-second analysis with efficient state management  
+✓ **Production Polish** — Animation-driven interactions and high design fidelity  
+✓ **API Integration** — Robust error handling, retry logic, and response validation  
 
-Skinstric AI was built to feel fast, polished, and intentional — not experimental.
+Built to feel fast, polished, and production-ready.
 
 ---
 
 ## Live Demo
 
-🔗 https://skinstric-red.vercel.app/
+🔗 **[View Live Application](https://skinstric-red.vercel.app/)**
+
 
 ---
 
 ## Author
 
 **Paige Maggio**  
-Frontend Engineer — React, TypeScript, AI-Driven Interfaces  
+Frontend Engineer | React, TypeScript, Next.js  
 
-📍 Montana  
 📧 pmaggio15@gmail.com  
-🌐 https://paigemaggio.dev  
-💼 https://linkedin.com/in/paigemaggio
+🌐 [paigemaggio.dev](https://paigemaggio.dev)  
+💼 [LinkedIn](https://linkedin.com/in/paigemaggio)  
+🐙 [GitHub](https://github.com/pmaggio15)

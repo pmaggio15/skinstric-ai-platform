@@ -80,26 +80,12 @@ Built to feel fast, polished, and production-ready.
 │
 ├── API Integration
 │   ├── RESTful API connections
-│   ├── Real-time image processing
+│   ├── Real time image processing
 │   └── Error handling and loading states
 │
 └── Deployment (Vercel)
     ├── Continuous integration
     └── Performance optimization
-```
-
----
-
-## Run Locally
-```bash
-# Clone the repo
-git clone https://github.com/pmaggio15/skinstric-ai-platform.git
-
-# Install dependencies
-npm install
-
-# Start development server
-npm run dev
 ```
 
 ---

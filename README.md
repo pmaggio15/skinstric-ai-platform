@@ -69,15 +69,45 @@ Built to feel fast, polished, and production-ready.
 
 🔗 **[View Live Application](https://skinstric-red.vercel.app/)**
 
+---
+
+## Architecture
+```
+├── Frontend (React/Next.js)
+│   ├── TypeScript components
+│   ├── Responsive UI with Tailwind CSS
+│   └── Async state management for AI workflows
+│
+├── API Integration
+│   ├── RESTful API connections
+│   ├── Real-time image processing
+│   └── Error handling and loading states
+│
+└── Deployment (Vercel)
+    ├── Continuous integration
+    └── Performance optimization
+```
+
+---
+
+## Run Locally
+```bash
+# Clone the repo
+git clone https://github.com/pmaggio15/skinstric-ai-platform.git
+
+# Install dependencies
+npm install
+
+# Start development server
+npm run dev
+```
 
 ---
 
 ## Author
 
 **Paige Maggio**  
-Frontend Engineer | React, TypeScript, Next.js  
+Frontend Engineer — React, TypeScript, Next.js
 
-📧 pmaggio15@gmail.com  
-🌐 [paigemaggio.dev](https://paigemaggio.dev)  
-💼 [LinkedIn](https://linkedin.com/in/paigemaggio)  
-🐙 [GitHub](https://github.com/pmaggio15)
+[Portfolio](https://paigemaggio.dev) • [LinkedIn](https://linkedin.com/in/paigemaggio) • [GitHub](https://github.com/pmaggio15)
+---

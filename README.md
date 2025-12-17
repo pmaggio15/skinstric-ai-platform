@@ -80,7 +80,7 @@ Built to feel fast, polished, and production-ready.
 │
 ├── API Integration
 │   ├── RESTful API connections
-│   ├── Real time image processing
+│   ├── Real-time image processing
 │   └── Error handling and loading states
 │
 └── Deployment (Vercel)
@@ -96,4 +96,3 @@ Built to feel fast, polished, and production-ready.
 Frontend Engineer — React, TypeScript, Next.js
 
 [Portfolio](https://paigemaggio.dev) • [LinkedIn](https://linkedin.com/in/paigemaggio) • [GitHub](https://github.com/pmaggio15)
----

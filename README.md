@@ -2,6 +2,8 @@
 
 Production grade AI skin analysis platform built from the ground up with a focus on clean architecture, performance optimization, and polished user experience.
 
+🔗 **Live Demo:** [skinstric-red.vercel.app](https://skinstric-red.vercel.app/)
+
 ---
 
 ## Overview
@@ -50,20 +52,14 @@ Skinstric is a complete frontend rebuild integrating real-time skin analysis wor
 
 ✓ **Component Architecture** — Clean separation of concerns with reusable, maintainable components  
 ✓ **Performance First** — Optimized for sub-3-second analysis with efficient state management  
-✓ **Production Polish** — Animation-driven interactions and high design fidelity  
+✓ **Production Polish** — Animation driven interactions and high design fidelity  
 ✓ **API Integration** — Robust error handling, retry logic, and response validation  
 
 Built to feel fast, polished, and production-ready.
 
 ---
 
-## Live Demo
-
-🔗 **[View Live Application](https://skinstric-red.vercel.app/)**
-
----
-
-## Architecture
+## Project Structure
 ```
 ├── Frontend (React/Next.js)
 │   ├── TypeScript components
@@ -72,12 +68,26 @@ Built to feel fast, polished, and production-ready.
 │
 ├── API Integration
 │   ├── RESTful API connections
-│   ├── Real-time image processing
+│   ├── Real time image processing
 │   └── Error handling and loading states
 │
 └── Deployment (Vercel)
     ├── Continuous integration
     └── Performance optimization
+```
+
+---
+
+## Run Locally
+```bash
+# Clone the repo
+git clone https://github.com/pmaggio15/skinstric-ai-platform.git
+
+# Install dependencies
+npm install
+
+# Start development server
+npm run dev
 ```
 
 ---

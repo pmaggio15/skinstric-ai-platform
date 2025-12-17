@@ -1,21 +1,21 @@
 # Skinstric — AI Skin Analysis Platform
 
-Production-grade AI skin analysis platform built from the ground up with a focus on clean architecture, performance optimization, and polished user experience.
+Production grade AI skin analysis platform built from the ground up with a focus on clean architecture, performance optimization, and polished user experience.
 
 ---
 
 ## Overview
 
-Skinstric is a complete frontend rebuild integrating real-time skin analysis workflows. The platform delivers fast, intuitive, and highly responsive interactions through modern component architecture and animation-driven UI flows.
+Skinstric is a complete frontend rebuild integrating real-time skin analysis workflows. The platform delivers fast, intuitive, and highly responsive interactions through modern component architecture and animation driven UI flows.
 
 ---
 
 ## Key Features
 
-- **Real-time skin analysis** with sub-2-second response times
-- **AI-driven attribute detection** and structured result rendering
-- **Animation-guided workflows** for scan → analysis → results flow
-- **Production-ready responsive design** across all devices
+- **Real time skin analysis** with sub-3-second response times
+- **AI driven attribute detection** and structured result rendering
+- **Animation guided workflows** for scan → analysis → results flow
+- **Production ready responsive design** across all devices
 - **Optimized state management** for complex async workflows
 
 ---
@@ -23,13 +23,13 @@ Skinstric is a complete frontend rebuild integrating real-time skin analysis wor
 ## Technical Architecture
 
 ### Frontend
-- **React** with modular, component-driven architecture
+- **React** with modular, component driven architecture
 - **State machine patterns** for predictable analysis flow
 - **GSAP animation timelines** for smooth UI transitions
-- **Performance-optimized rendering** with intelligent state updates
+- **Performance optimized rendering** with intelligent state updates
 
 ### Integration Layer
-- Third-party **skin analysis API** integration
+- Third party **skin analysis API** integration
 - **RESTful API** error handling and retry logic
 - Image preprocessing and optimization
 - Structured response transformation for UI rendering
@@ -57,7 +57,7 @@ Skinstric is a complete frontend rebuild integrating real-time skin analysis wor
 ## Engineering Highlights
 
 ✓ **Component Architecture** — Clean separation of concerns with reusable, maintainable components  
-✓ **Performance-First** — Optimized for sub-2-second analysis with efficient state management  
+✓ **Performance First** — Optimized for sub-3-second analysis with efficient state management  
 ✓ **Production Polish** — Animation-driven interactions and high design fidelity  
 ✓ **API Integration** — Robust error handling, retry logic, and response validation  
 

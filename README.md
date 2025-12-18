@@ -2,6 +2,8 @@
 
 Production grade AI skin analysis platform built from the ground up with a focus on clean architecture, performance optimization, and polished user experience.
 
+**Note:** This repository demonstrates the frontend architecture and user experience of the Skinstric platform. The production skin-analysis models and backend services are private and not included.
+
 🔗 **Live Demo:** [skinstric-red.vercel.app](https://skinstric-red.vercel.app/)
 
 ---

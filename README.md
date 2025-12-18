@@ -1,8 +1,8 @@
-# Skinstric — AI Skin Analysis Platform
+# Skinstric — AI Skin Analysis Frontend Demo
 
-Production grade AI skin analysis platform built from the ground up with a focus on clean architecture, performance optimization, and polished user experience.
+Production style frontend demo for an AI skin analysis platform, built with a focus on clean architecture, performance optimization, and polished user experience.
 
-**Note:** This repository demonstrates the frontend architecture and user experience of the Skinstric platform. The production skin-analysis models and backend services are private and not included.
+**Note:** This repository demonstrates the frontend architecture and user experience of the Skinstric platform. The production skin analysis models and backend services are private and not included.
 
 🔗 **Live Demo:** [skinstric-red.vercel.app](https://skinstric-red.vercel.app/)
 
@@ -10,33 +10,33 @@ Production grade AI skin analysis platform built from the ground up with a focus
 
 ## Overview
 
-Skinstric is a complete frontend rebuild integrating real-time skin analysis workflows. The platform delivers fast, intuitive, and highly responsive interactions through modern component architecture and animation driven UI flows.
+Skinstric is a high fidelity frontend rebuild aligned to a private skin analysis service. The application implements real time image capture and upload workflows, asynchronous analysis states, and animation driven UI flows to simulate the production experience.
 
 ---
 
 ## Key Features
 
-- **Real time skin analysis** with sub-3-second response times
-- **AI driven attribute detection** and structured result rendering
-- **Animation guided workflows** for scan → analysis → results flow
-- **Production ready responsive design** across all devices
-- **Optimized state management** for complex async workflows
+- **Real time image capture and upload aligned to a private skin analysis API contract
+- **Structured analysis result rendering from AI driven responses
+- **Animation guided workflows for scan → processing → results
+- **Production style responsive design across devices
+- **Robust async state handling for image heavy workflows
 
 ---
 
 ## Technical Architecture
 
 ### Frontend
-- **React** with modular, component driven architecture
-- **State machine patterns** for predictable analysis flow
-- **GSAP animation timelines** for smooth UI transitions
-- **Performance optimized rendering** with intelligent state updates
+- **React + TypeScript** with modular, component driven architecture
+- **Predictable async state management** for analysis and loading flows
+- **GSAP animation timelines** for smooth transitions and perceived performance
+- **Optimized rendering** for image-heavy UI states
 
-### Integration Layer
-- Third party **skin analysis API** integration
-- **RESTful API** error handling and retry logic
-- Image preprocessing and optimization
-- Structured response transformation for UI rendering
+### API Integration (Frontend)
+- Integration with a private third-party skin analysis API
+- Structured request/response handling for image analysis
+- Error states, loading transitions, and UI fallbacks
+- Response normalization for consistent UI rendering
 
 ---
 
@@ -52,31 +52,12 @@ Skinstric is a complete frontend rebuild integrating real-time skin analysis wor
 
 ## Engineering Highlights
 
-✓ **Component Architecture** — Clean separation of concerns with reusable, maintainable components  
-✓ **Performance First** — Optimized for sub-3-second analysis with efficient state management  
+✓ **Frontend Architecture** — Clean separation of concerns with reusable, maintainable components  
+✓ **Performance Focused** — Optimized UI flows for fast, responsive analysis experiences
 ✓ **Production Polish** — Animation driven interactions and high design fidelity  
-✓ **API Integration** — Robust error handling, retry logic, and response validation  
+✓ **API Integration** — Built against a real world private API contract
 
-Built to feel fast, polished, and production-ready.
-
----
-
-## Project Structure
-```
-├── Frontend (React/Next.js)
-│   ├── TypeScript components
-│   ├── Responsive UI with Tailwind CSS
-│   └── Async state management for AI workflows
-│
-├── API Integration
-│   ├── RESTful API connections
-│   ├── Real time image processing
-│   └── Error handling and loading states
-│
-└── Deployment (Vercel)
-    ├── Continuous integration
-    └── Performance optimization
-```
+Built to feel fast, polished, and production ready.
 
 ---
 
